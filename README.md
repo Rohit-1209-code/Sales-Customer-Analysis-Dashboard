@@ -28,4 +28,4 @@ SQL (MySQL) for analysis · Power BI for the dashboard
 
 ## Author
 
-Rohit Rajput — [GitHub](https://github.com/Rohit-1209-code) · [LinkedIn](https://www.linkedin.com/in/rohit-701641417)
+Rohit Rajput — [GitHub](https://github.com/Rohit-1209-code) · [LinkedIn](www.linkedin.com/in/rohit-rajput-701641417)
